@@ -1,0 +1,19 @@
+sudo apt update
+sudo apt upgrade
+sudo apt install php -y
+sudo apt install apache2 -y
+sudo apt install nmap -y
+sudo apt install docker -y
+sudo apt install docker-compose -y
+sudo apt install arp-scan -y
+sudo apt install dirb -y 
+sudo apt install net-tools -y
+git clone https://github.com/danielmiessler/SecLists
+sudo apt install wireshark -y 
+sudo apt install nano 
+sudo apt install snap -y
+sudo apt install dnsmasq
+sudo apt install hostapd
+git clone https://github.com/AonCyberLabs/PadBuster
+
+
