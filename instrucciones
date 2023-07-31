@@ -8,13 +8,13 @@ Bienvenido a este proyecto, con este repositorio vas a poder tener tu equipo par
 
 Primero tienes que hacer un
 
-		chmod +x equipo 
+		chmod +x unfoldme
 
 Para darles permisos de ejecucion y poder ejecutar todo el script
 
 Y ahora lo ejecutas con 
 
-		./equipo
+		./unfoldme
 
 Para ejecutar el script
 
