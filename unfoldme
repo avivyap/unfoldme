@@ -15,3 +15,4 @@ sudo apt install snap -y
 sudo apt install dnsmasq
 sudo apt install hostapd
 git clone https://github.com/AonCyberLabs/PadBuster
+sudo apt install python3
