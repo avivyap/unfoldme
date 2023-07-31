@@ -10,9 +10,9 @@ sudo apt install dirb -y
 sudo apt install net-tools -y
 git clone https://github.com/danielmiessler/SecLists
 sudo apt install wireshark -y 
-sudo apt install nano 
+sudo apt install nano -y
 sudo apt install snap -y
-sudo apt install dnsmasq
-sudo apt install hostapd
+sudo apt install dnsmasq -y
+sudo apt install hostapd -y
 git clone https://github.com/AonCyberLabs/PadBuster
 sudo apt install python3
