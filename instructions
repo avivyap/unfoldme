@@ -8,13 +8,13 @@ Welcome to this project, this is a repo to created your best machine for pentest
 
 The first you need to do a 
 
-		chmod +x equipo
+		chmod +x unfoldme
 
 To give permisions to ejecuted the script.
 
 And now you need do a 
 		
-		./equipo
+		./unfoldme
 
 
 To ejecuted the script
