@@ -16,3 +16,14 @@ sudo apt install dnsmasq -y
 sudo apt install hostapd -y
 git clone https://github.com/AonCyberLabs/PadBuster
 sudo apt install python3
+sudo apt install exiftool -y
+sudo apt install perl
+sudo apt install gobuster
+sudo apt install ssh -y
+sudo apt install ftp -y
+sudo apt install netcat 
+sudo apt install hydra -y
+sudo apt install steghide -y
+git clone https://gitlab.com/exploit-database/exploitdb
+sudo apt install wfuzz -y
+sudo apt install whatweb -y
