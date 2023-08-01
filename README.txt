@@ -4,6 +4,8 @@ Welcome to this project, this is a repo to created your best machine for pentest
 
 This script can save a lot of time for you because this script install all tools that you need to do pentesting.
 
+!! This project is only to a linux machine !!
+
 SOON!!!
 
 Bye!!
