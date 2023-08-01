@@ -1,0 +1,5 @@
+rm -r README.txt
+rm -r unfoldme
+rm -r instrucciones
+rm -r instructions
+rm -r delete
