@@ -11,4 +11,4 @@ rm -r instructions
 rm -r README.txt
 
 
-rm -r delete
+rm -r delete_repository
