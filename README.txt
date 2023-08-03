@@ -6,6 +6,6 @@ This script can save a lot of time for you because this script install all tools
 
 !! This project is only to a linux machine !!
 
-SOON!!!
+This repo is update at least once a month.
 
 Bye!!
