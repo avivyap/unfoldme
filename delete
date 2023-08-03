@@ -1,0 +1,15 @@
+!#/bin/bash
+
+rm -r unfoldme
+
+
+rm -r instrucciones
+
+
+rm -r instructions
+
+
+rm -r README.txt
+
+
+rm -r delete
