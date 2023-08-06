@@ -27,3 +27,4 @@ sudo apt install whatweb -y
 git clone https://github.com/danielmiessler/SecLists
 git clone https://github.com/AonCyberLabs/PadBuster
 git clone https://gitlab.com/exploit-database/exploitdb
+git clone https://github.com/sqlmapproject/sqlmap
