@@ -1,4 +1,4 @@
-#!/bin/bash
+fol#!/bin/bash
 
 echo -e "\e[33m[+] Se van a instalar todas las herramientas\e[0m"
 
@@ -67,24 +67,24 @@ git clone https://github.com/AonCyberLabs/PadBuster
 git clone https://gitlab.com/exploit-database/exploitdb
 git clone https://github.com/sqlmapproject/sqlmap
 
-sleep 3
+sleep 2
 
 echo -e "\e[33m[+] Se han instalado las siguientes herramientas\e[0m"
 
-sleep 4
+sleep 3
 
-echo -e "\e[33mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb\e[0m"
+echo -e "\e[36mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb\e[0m"
 
-sleep 4
+sleep 3
 
 echo -e "\e[33m[+] Se han clonado los siguientes repositorios\e[0m"
 
-sleep 4
+sleep 3
 
-echo -e "\e[33mseclist, padbuster, exploitdb, sqlmap\e[0m"
+echo -e "\e[36mseclist, padbuster, exploitdb, sqlmap\e[0m"
 
-sleep 4
+sleep 3
 
-echo -e "\e[33mDisfruta ;)\e[0m"
+echo -e "\e[34mDisfruta ;)\e[0m"
 
 
