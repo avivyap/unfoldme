@@ -13,12 +13,13 @@ sudo apt upgrade -y
 
 sleep 3
 
-echo -e "\e[33m[+] Ahora se va a instalar php y apache2\e[0m"
+echo -e "\e[33m[+] Ahora se va a instalar php, apache2 y python3\e[0m"
 
 sleep 3
 
 sudo apt install php -y
 sudo apt install apache2 -y
+sudo apt install python3
 
 sleep 3
 
@@ -44,7 +45,6 @@ sudo apt install nano -y
 sudo apt install snap -y
 sudo apt install dnsmasq -y
 sudo apt install hostapd -y
-sudo apt install python3
 sudo apt install exiftool -y
 sudo apt install perl
 sudo apt install gobuster
