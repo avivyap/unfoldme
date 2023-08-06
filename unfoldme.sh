@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 
 echo -e "\e[33m[+] Se van a instalar todas las herramientas\e[0m"
 
