@@ -85,6 +85,6 @@ echo -e "\e[36mseclist, padbuster, exploitdb, sqlmap\e[0m"
 
 sleep 3
 
-echo -e "\e[34mDisfruta ;)\e[0m"
+echo -e "\e[32mDisfruta ;)\e[0m"
 
 
