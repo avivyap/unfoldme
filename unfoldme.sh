@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "[+] Se van a instalar todas las herramientas"
+echo -e "\e[32m[+] Se van a instalar todas las herramientas\e[0m"
 
 sleep 3
 
