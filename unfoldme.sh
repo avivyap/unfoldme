@@ -19,7 +19,7 @@ sleep 3
 
 sudo apt install php -y
 sudo apt install apache2 -y
-sudo apt install python3
+sudo apt install python3 -y
 
 sleep 3
 
