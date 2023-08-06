@@ -1,0 +1,14 @@
+
+rm -r unfoldme.sh
+
+
+rm -r instrucciones
+
+
+rm -r instructions
+
+
+rm -r README.txt
+
+
+rm -r delete_repository
