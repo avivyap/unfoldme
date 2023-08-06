@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -ne "[+] Se va a instalar todas las herramientas"
+echo -e "[+] Se va a instalar todas las herramientas"
 
 sleep 3
 
@@ -36,22 +36,22 @@ git clone https://github.com/AonCyberLabs/PadBuster
 git clone https://gitlab.com/exploit-database/exploitdb
 git clone https://github.com/sqlmapproject/sqlmap
 
-echo -ne "[+] Se han instalado las siguientes herramientas "
+echo -e "[+] Se han instalado las siguientes herramientas "
 
 sleep 5
 
-echo -ne " docker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb "
+echo -e " docker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb "
 
 sleep 8
 
-echo -ne "[+] Se han clonado los siguientes repositorios"
+echo -e "[+] Se han clonado los siguientes repositorios"
 
 sleep 5
 
-echo -ne " seclist, padbuster, exploitdb, sqlmap"
+echo -e " seclist, padbuster, exploitdb, sqlmap"
 
 sleep 5
 
-echo -ne " [+] Disfruta ;) [+] "
+echo -e " [+] Disfruta ;) [+] "
 
 
