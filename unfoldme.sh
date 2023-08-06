@@ -6,7 +6,7 @@ sleep 3
 
 echo -e "[+] Primero se va a hacer una actualización del sistema"
 
-sleep 1
+sleep 2
 
 apt update
 sudo apt upgrade -y
