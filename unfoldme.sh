@@ -1,5 +1,30 @@
  #!/bin/bash
 
+
+
+# unfoldmelabs, Author avivyap (@avivyap)
+
+
+
+#Colours
+greenColour="\e[0;32m\033[1m"
+endColour="\033[0m\e[0m"
+redColour="\e[0;31m\033[1m"
+blueColour="\e[0;34m\033[1m"
+yellowColour="\e[0;33m\033[1m"
+purpleColour="\e[0;35m\033[1m"
+turquoiseColour="\e[0;36m\033[1m"
+grayColour="\e[0;37m\033[1m"
+
+
+echo -ne  "\e[32m Hecho por\e[0m"
+
+echo -e "\e[33m Avivyap\e[0m"
+
+
+sleep 2.5
+
+
 echo -e "\e[33m[+] Se van a instalar todas las herramientas\e[0m"
 
 sleep 3
