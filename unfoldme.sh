@@ -90,7 +90,7 @@ sudo apt install whatweb -y
 
 sleep 3
 
-echo -e "\e[33m[+] Por ultimo se descargaran los repositorios\e[0m"
+echo -e "\e[33m[+] Por ultimo se descargarán los repositorios\e[0m"
 
 sleep 3
 
