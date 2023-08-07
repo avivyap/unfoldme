@@ -98,7 +98,7 @@ echo -e "\e[33m[+] Se han instalado las siguientes herramientas\e[0m"
 
 sleep 3
 
-echo -e "\e[36mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb\e[0m"
+echo -e "\e[32mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb\e[0m"
 
 sleep 3
 
@@ -106,10 +106,10 @@ echo -e "\e[33m[+] Se han clonado los siguientes repositorios\e[0m"
 
 sleep 3
 
-echo -e "\e[36mseclist, padbuster, exploitdb, sqlmap\e[0m"
+echo -e "\e[32mseclist, padbuster, exploitdb, sqlmap\e[0m"
 
 sleep 3
 
-echo -e "\e[32mDisfruta ;)\e[0m"
+echo -e "\e[31mDisfruta ;)\e[0m"
 
 
