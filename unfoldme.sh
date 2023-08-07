@@ -60,7 +60,7 @@ sudo apt install docker-compose -y
 
 sleep 3
 
-echo -e "\e[33m[+] A continuación se instalaran las herramientas de hacking\e[0m" 
+echo -e "\e[33m[+] A continuación se instalarán las herramientas de hacking\e[0m" 
 
 sleep 3
 
