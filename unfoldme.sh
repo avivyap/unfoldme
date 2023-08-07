@@ -19,7 +19,7 @@ grayColour="\e[0;37m\033[1m"
 
 echo -ne  "\e[32m Hecho por\e[0m"
 
-echo -e "\e[33m Avivyap\e[0m"
+echo -e "\e[35m Avivyap\e[0m"
 
 
 sleep 2.5
