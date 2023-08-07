@@ -1,11 +1,11 @@
-Hello!!
+Herramienta ideal para crear tu maquina perfecta para hacer pentesting, con este repo se instalará php,nmap,mysql y muchas mas herramientas para hacer hacking y pentesting.
 
-Welcome to this project, this is a repo to created your best machine for pentesting, this repo install php,nmap,mysql and more things to hacking and doing hacking.
 
-This script can save a lot of time for you because this script install all tools that you need to do pentesting.
+Con esta herramientas vas a ahorrar un monton de tiempo a la hora de preparar tu equipo con las herramientas necesarias para hacer hacking y pentesting
 
-!! This project is only to a linux machine !!
 
-This repo is update at least once a month.
 
-Bye!!
+!! Este proyecto es solo para maquinas con linux !!
+
+
+Esta herramienta será actualizada almenos una vez al mes
