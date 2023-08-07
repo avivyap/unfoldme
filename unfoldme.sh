@@ -21,6 +21,8 @@ echo -ne  "\e[32m Hecho por\e[0m"
 
 echo -e "\e[35m Avivyap\e[0m"
 
+echo -e "\e[32m Instagram @avivyap\e[0m"
+
 
 sleep 2.5
 
