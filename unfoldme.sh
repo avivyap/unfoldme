@@ -19,10 +19,15 @@ grayColour="\e[0;37m\033[1m"
 
 echo -ne  "\e[32m Hecho por\e[0m"
 
-echo -e "\e[35m Avivyap\e[0m"
+echo -e "\e[33m Avivyap\e[0m"
 
-echo -e "\e[32m Instagram @avivyap\e[0m"
+sleep 2
 
+echo -ne "\e[32m Instagram\e[0m"
+
+sleep 2
+
+echo -e "\e[33m @avivyap\e[0m"
 
 sleep 2.5
 
