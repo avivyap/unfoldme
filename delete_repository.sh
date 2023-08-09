@@ -1,5 +1,3 @@
-!#/bin/bash
-
 echo -e "\e[33m[+] Se va a borrar el repositorio\e[0m"
 
 sleep 3
@@ -15,5 +13,8 @@ rm -r instructions
 
 rm -r README.txt
 
+echo -e "\e[33m[+] Se ha borrado el directorio\e[0m"
+
+sleep 1.5
 
 rm -r delete_repository.sh
