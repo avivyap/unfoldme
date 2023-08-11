@@ -100,6 +100,12 @@ git clone https://github.com/danielmiessler/SecLists
 git clone https://github.com/AonCyberLabs/PadBuster
 git clone https://gitlab.com/exploit-database/exploitdb
 git clone https://github.com/sqlmapproject/sqlmap
+git clone https://github.com/secdev/scapy
+git clone https://github.com/request/request
+git clone https://github.com/fortra/impacket
+git clone https://github.com/Gallopsled/pwntools
+git clone https://github.com/pyca/cryptography
+git clone https://github.com/fzaninotto/Faker
 
 sleep 2
 
@@ -115,7 +121,7 @@ echo -e "\e[33m[+] Se han clonado los siguientes repositorios\e[0m"
 
 sleep 3
 
-echo -e "\e[32mseclist, padbuster, exploitdb, sqlmap\e[0m"
+echo -e "\e[32mseclist, padbuster, exploitdb, sqlmap, scapy, request, impacket, pwntools, cryptography, faker\e[0m"
 
 sleep 3
 
