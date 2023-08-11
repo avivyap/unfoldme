@@ -87,6 +87,8 @@ sudo apt install hydra -y
 sudo apt install steghide -y
 sudo apt install wfuzz -y
 sudo apt install whatweb -y
+sudo apt install aircrack-ng -y
+
 
 sleep 3
 
@@ -105,7 +107,7 @@ echo -e "\e[33m[+] Se han instalado las siguientes herramientas\e[0m"
 
 sleep 3
 
-echo -e "\e[32mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb\e[0m"
+echo -e "\e[32mdocker, apache2, nmap, docker, docker-compose, arp-scan, dirb, wireshark, dnsmasp, exiftool, gobuster, hydra, steghide, wfuzz, whatweb, aircrack-ng\e[0m"
 
 sleep 3
 
