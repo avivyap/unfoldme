@@ -88,7 +88,7 @@ sudo apt install steghide -y
 sudo apt install wfuzz -y
 sudo apt install whatweb -y
 sudo apt install aircrack-ng -y
-
+sudo apt install bettercap -y
 
 sleep 3
 
