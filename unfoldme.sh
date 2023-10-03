@@ -89,6 +89,7 @@ sudo apt install wfuzz -y
 sudo apt install whatweb -y
 sudo apt install aircrack-ng -y
 sudo apt install bettercap -y
+sudo apt install hping3 -y
 
 sleep 3
 
