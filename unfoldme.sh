@@ -90,6 +90,7 @@ sudo apt install whatweb -y
 sudo apt install aircrack-ng -y
 sudo apt install bettercap -y
 sudo apt install hping3 -y
+sudo apt install macchanger -y
 
 sleep 3
 
