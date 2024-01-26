@@ -91,6 +91,8 @@ sudo apt install aircrack-ng -y
 sudo apt install bettercap -y
 sudo apt install hping3 -y
 sudo apt install macchanger -y
+sudo apt install cowpatty -y 
+sudo apt install mdk3 -y 
 
 sleep 3
 
