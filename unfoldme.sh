@@ -55,6 +55,8 @@ sudo apt install python3 -y
 sudo apt install nano -y
 sudo apt install snap -y
 sudo apt install net-tools -y
+sudo apt install mysql-server -y
+
 
 sleep 3
 
