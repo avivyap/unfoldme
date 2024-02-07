@@ -97,6 +97,7 @@ sudo apt install cowpatty -y
 sudo apt install mdk3 -y 
 sudo apt-get install libpcap-dev -y
 pip install scapy
+apt install python2.7 -y 
 
 
 sleep 3
@@ -115,6 +116,7 @@ git clone https://github.com/fortra/impacket
 git clone https://github.com/Gallopsled/pwntools
 git clone https://github.com/pyca/cryptography
 git clone https://github.com/fzaninotto/Faker
+https://github.com/ferranverdes/rp-pyrit
 
 sleep 2
 
@@ -135,5 +137,4 @@ echo -e "\e[32mseclist, padbuster, exploitdb, sqlmap, scapy, request, impacket, 
 sleep 3
 
 echo -e "\e[31mDisfruta ;)\e[0m"
-
 
