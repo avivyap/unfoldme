@@ -56,6 +56,8 @@ sudo apt install nano -y
 sudo apt install snap -y
 sudo apt install net-tools -y
 sudo apt install mysql-server -y
+sudo apt-get install libnl-3-dev libnl-genl-3-dev
+
 
 
 sleep 3
