@@ -116,8 +116,8 @@ git clone https://github.com/fortra/impacket
 git clone https://github.com/Gallopsled/pwntools
 git clone https://github.com/pyca/cryptography
 git clone https://github.com/fzaninotto/Faker
-https://github.com/ferranverdes/rp-pyrit
-
+git clone https://github.com/ferranverdes/rp-pyrit
+git clone https://github.com/wifiphisher/wifiphisher
 sleep 2
 
 echo -e "\e[33m[+] Se han instalado las siguientes herramientas\e[0m"
