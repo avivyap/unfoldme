@@ -103,6 +103,7 @@ sudo apt install mdk3 -y
 sudo apt-get install libpcap-dev -y
 pip install scapy
 apt install python2.7 -y 
+apt install reaver -y
 
 
 sleep 3
