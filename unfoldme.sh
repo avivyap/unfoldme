@@ -104,6 +104,7 @@ sudo apt-get install libpcap-dev -y
 pip install scapy
 apt install python2.7 -y 
 apt install reaver -y
+apt install hashcat -y
 
 
 sleep 3
