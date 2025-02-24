@@ -59,7 +59,7 @@ sudo apt install mysql-server -y
 sudo apt-get install libnl-3-dev libnl-genl-3-dev
 sudo apt-get install libssl-dev
 sudo apt install gcc-12
-
+sudo apt install bat
 
 
 
